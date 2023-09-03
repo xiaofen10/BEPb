@@ -64,12 +64,7 @@ graph TD;
 <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>
 
-<p align="center"> 
 
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
 
 
 
