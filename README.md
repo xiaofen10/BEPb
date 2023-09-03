@@ -50,16 +50,6 @@
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
 
 
-
-
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
-</p>
-
-
-
-
    <!--machine-learning-->
 ```mermaid
 graph TD;
