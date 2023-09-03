@@ -60,18 +60,6 @@ graph TD;
  
 
 
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-</p>
 
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
